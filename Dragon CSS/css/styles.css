@@ -1,0 +1,19 @@
+body {
+	max-width: 960px;
+	margin: auto;
+	background-color: gray;
+
+}
+
+#container {
+	background-color: white;
+}
+
+.card {
+	text-align: center;
+}
+
+img {
+	width: 60%;
+	position: relative;
+}
